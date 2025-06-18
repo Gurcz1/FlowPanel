@@ -9,7 +9,7 @@ export default function RoleSelect() {
 
   return (
     <div className="min-h-screen bg-neutral-900 text-white flex flex-col items-center justify-center px-6">
-      <h1 className="text-4xl font-bold mb-8">🍕 Włoskie Smaki – Panel</h1>
+      <h1 className="text-4xl font-bold mb-8">FlowPanel</h1>
       <p className="text-lg text-neutral-400 mb-10">Wybierz swoją rolę, aby kontynuować:</p>
 
       <div className="grid gap-6 w-full max-w-md">
