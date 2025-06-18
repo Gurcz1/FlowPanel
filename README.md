@@ -23,7 +23,7 @@
 ### Instalacja lokalna
 
 ```bash
-git clone https://github.com/TwojUser/flowpanel.git
+git clone https://github.com/Gurcz1/flowpanel.git
 cd flowpanel
 npm install
 npm run dev
@@ -60,7 +60,7 @@ Projekt stworzony w **React + Vite**
 ### Local installation
 
 ```bash
-git clone https://github.com/TwojUser/flowpanel.git
+git clone https://github.com/Gurcz1/flowpanel.git
 cd flowpanel
 npm install
 npm run dev
