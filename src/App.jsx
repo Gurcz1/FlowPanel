@@ -57,15 +57,7 @@ export default function App() {
             />
           }
         />
-        <Route
-          path="/kucharz"
-          element={
-            <div className="p-6 bg-neutral-900 text-white min-h-screen">
-              <h1 className="text-2xl font-bold mb-4">👨‍🍳 Panel kucharza – w budowie</h1>
-              <Link to="/" className="text-blue-400 hover:underline">← Wróć</Link>
-            </div>
-          }
-        />
+
         <Route path="/admin" element={<AdminLogin />} />
         <Route path="/admin-panel" element={<AdminPanel />} />
       </Routes>
